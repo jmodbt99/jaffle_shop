@@ -4,7 +4,7 @@
 
 ### What is this repo?
 What this repo _is_:
-- A self-contained playground dbt project, useful for testing out scripts, and communicating some of the core dbt concepts.
+- A self-contained playground dbt project, useful for testing out scripts, and communicating some of core dbt concepts.
 
 What this repo _is not_:
 - A tutorial — check out the [Getting Started Tutorial](https://docs.getdbt.com/tutorial/setting-up) for that. Notably, this repo contains some anti-patterns to make it self-contained, namely the use of seeds instead of sources.
